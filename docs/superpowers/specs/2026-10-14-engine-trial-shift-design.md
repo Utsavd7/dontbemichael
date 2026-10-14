@@ -19,7 +19,7 @@ So offering a second engine is an all or nothing decision, for every office at o
 
 Treat a new engine the way the app already treats a new kind of email: it earns trust from the owner's own approvals before it acts alone.
 
-![Mockup: the graduation card, a stopped trial, and one reply side by side](MOCKUP_URL)
+![Mockup: the graduation card, a stopped trial, and one reply side by side](https://raw.githubusercontent.com/Utsavd7/dontbemichael/proposal/engine-trial-shift/docs/superpowers/specs/2026-10-14-engine-trial-shift.png)
 
 **1. The owner starts a trial.** On a team member's Profile, behind a `buildFeatures.ts` flag: **Try another engine**, for example Codex for Kelly. The card says up front that a trial uses both plans.
 
@@ -66,4 +66,4 @@ Any "allowed", or the token found anywhere, ends the trial with the reason on th
 
 ## Wellfound note (paste into the application)
 
-I starred and forked the repo, and read the code, TODOS.md and the engine issues before proposing anything. The code for Codex and Gemini is already there; what is missing is proof that a second engine is safe for a real business. So I proposed a trial shift: a new engine shadows one team member on the owner's real email, with no mailbox, connectors or internet. It is scored against what the owner actually approved, and has to pass a live fire drill with a decoy file on the owner's own computer first. It builds on #48 and #83 instead of repeating them, and ships Codex, Gemini and new operating systems one office at a time, with evidence. Issue with a mockup: ISSUE_URL
+I starred and forked the repo, and read the code, TODOS.md and the engine issues before proposing anything. The code for Codex and Gemini is already there; what is missing is proof that a second engine is safe for a real business. So I proposed a trial shift: a new engine shadows one team member on the owner's real email, with no mailbox, connectors or internet. It is scored against what the owner actually approved, and has to pass a live fire drill with a decoy file on the owner's own computer first. It builds on #48 and #83 instead of repeating them, and ships Codex, Gemini and new operating systems one office at a time, with evidence. Issue with a mockup: https://github.com/agentvivekkumar/dontbemichael/issues/371
